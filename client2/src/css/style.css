@@ -1,0 +1,12 @@
+.body-container {
+    width: 800px;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    text-align: center;
+}
+button {
+    height: 50px;
+    width: auto;
+}
