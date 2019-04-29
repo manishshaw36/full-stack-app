@@ -1,14 +1,14 @@
 # fullstackapp
 
 # cd fullstackapp 
-  # npm install
+   npm install
 
 # cd backend
-  # npm install
+  npm install
   
 # cd client
-  # npm install
+  npm install
 
 
 # cd fullstackapp (For running App)
-  # npm start
+  npm start
